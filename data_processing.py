@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 def read_csv_file():
     print('Read csv file...')
-    root_path = r'D:\Physical_examination_Department\same_id_data\XZ\open_dataset/data_final_DelDateOuter-English.csv'
+    root_path = r'../data.csv'
     data = pd.read_csv(root_path, encoding="gbk")
     # print(data.describe())
     # print(data.head())
