@@ -1,7 +1,4 @@
 # Dyslipidemia-EHR
-# Electronic health records database for developing dyslipidemia prediction algorithms
-
-Dyslipidemia has emerged as a significant clinical risk, with its associated complications, including atherosclerosis and ischemic cerebrovascular disease, presenting a grave threat to human well-being. Hence, it holds paramount importance to precisely predict the onset of dyslipidemia and associated risk factors. To advance research in dyslipidemia management, we have curated a database for dyslipidemia prediction, which is now accessible to the research community. This database will establish a robust foundation for the creation of data-driven algorithms and models for dyslipidemia prediction, fostering further exploration into dyslipidemia monitoring and management technologies.
 
 ## Repository Structure
 
